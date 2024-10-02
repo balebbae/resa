@@ -42,7 +42,7 @@ export function MainNavLinks() {
               className={`${navigationMenuTriggerStyle()} border: 2px`}
               style={{ border: "2px solid black", padding: "16px" }}
             >
-              Getting Started
+              Create Schedule
             </NavigationMenuLink>
           </Link>
         </NavigationMenuItem>
